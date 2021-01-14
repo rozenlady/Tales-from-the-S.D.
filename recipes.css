@@ -1,0 +1,167 @@
+
+body{
+    font-family: 'Raleway', sans-serif !important;
+
+     
+}
+
+.logo{
+   height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+    border:none !important;
+}
+.btn:focus{
+    box-shadow: none !important;
+
+}
+
+.header{
+    background-image: url("media/cover2.jpg");
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+/* Style the text and place it in the middle of the cover/image */
+.cover {
+  color: white;
+  font-size: 450%;
+  font-family: 'Raleway', sans-serif;
+  align-content: center;
+}
+
+.dropdown-menu{
+   font-family: 'Raleway', sans-serif !important;border:none !important;
+   border:none !important;
+}
+
+
+.icon{
+    font-size: 6vh;
+    color: white;
+    margin: 5px;
+}
+
+
+.iconwrapper{
+   width: 20px;
+    display: flex;
+    justify-content: flex-end; 
+
+}
+
+.noborder{
+    border:none !important;
+       height: 10vh !important;
+    width: 10vh !important;
+    border-radius: 50% !important;
+}
+
+.btn:focus{
+    box-shadow: 
+}
+
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 0!important;
+    margin-block-end: 0!important;
+    margin-inline-start: 0!important;
+    margin-inline-end: 0!important;
+
+    font-weight: bold;
+    }
+
+/*Videos*/
+.boxin{
+  padding: 15px;
+    background-size: cover;
+    background-color: black !important;
+    height: auto;
+     text-align: center;
+     color: white;
+}
+
+#myVideo {
+  width: 100%;
+    height:auto;
+}
+
+footer{
+  background-color: black!important;
+
+}
+/*.container{
+  display: flex;
+  justify-content: center;
+  display: grid;
+  grid-template-areas:
+
+  "one two three"
+  "four five six"
+  "seven eight nine";
+
+  grid-gap: 5px;
+  height: 150px;
+  max-width: 95%;
+  margin:auto;
+  margin-top: 00px;
+
+
+}
+
+.one{
+  grid-area: one
+  justify-content:space-between;
+  padding-top: 25px;
+
+}
+
+.two{
+  grid-area: two;
+  justify-content:space-between;
+  padding-top: 25px;
+}
+
+.three{
+  grid-area: three;
+    justify-content:space-between;
+  padding-top: 25px;
+}
+.four{
+  grid-area: four;
+   justify-content:space-between;
+  padding-top: 25px;
+}
+
+.five{
+  grid-area: five;
+  justify-content:space-between;
+  padding-top: 25px;
+}
+
+.six{
+  grid-area: six;
+   justify-content:space-between;
+  padding-top: 25px;
+}
+.seven{
+  grid-area: seven;
+    justify-content:space-between;
+  padding-top: 25px;
+}
+.eight{
+  grid-area: eight;
+  justify-content:space-between;
+  padding-top: 25px;
+}
+
+.nine{
+  justify-content:space-between;
+  padding-top: 25px;
+}
+*/

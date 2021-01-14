@@ -1,0 +1,180 @@
+
+body{
+    font-family: 'Raleway', sans-serif !important;
+     border:none !important;
+}
+
+.logo{
+   height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+
+}
+
+
+.header{
+    background-image: url("media/cover2.jpg");
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+/* Style the text and place it in the middle of the cover/image */
+.cover {
+  color: white;
+  font-size: 450%;
+  font-family: 'Raleway', sans-serif;
+  align-content: center;
+}
+.about{
+  color: white;
+  background-color: black;
+  /*font-size: 450%;*/
+  font-family: 'Raleway', sans-serif;
+  align-content: center;
+  padding: 50px;
+  text-align: center;
+}
+
+
+.dropdown-menu{
+   font-family: 'Raleway', sans-serif !important;
+}
+
+
+i{
+    font-size: 6vh;
+    color: white;
+    margin: 5px;
+}
+
+
+.iconwrapper{
+   width: 20px;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.noborder{
+    border:none !important;
+       height: 10vh !important;
+    width: 10vh !important;
+    border-radius: 50% !important;
+
+}
+
+.formcontainer{
+   background-color: black;
+   color: white; 
+    justify-content: center;
+}
+form{
+    
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding: 15px
+    box-shadow: none !important;
+    border:none !important;
+    }
+
+.contactform{
+    width:100%;
+    margin: auto;
+    display: flex;
+}
+
+.btn:focus{
+    box-shadow: none !important;
+}
+
+.contactform input{
+    width:100%;
+}
+
+.boxin{
+    background-size: cover;
+    background-color: black !important;
+    height: auto;
+    display: flex;
+    padding-bottom: 10px;
+     padding-top: : 10px;
+     text-align: center;
+     color: white;
+}
+
+.op{
+    opacity: 50%;
+}
+
+.pad{
+     max-width: 65%;
+     height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 8.5vh;
+}
+
+.card2 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border:none !important;
+}   
+
+
+.card-text{
+    font-size: 2.5vh !important;
+    text-align: center !important;
+}
+
+
+
+/*icon Row properties*/
+.row{
+    padding: 15px;
+    border:none !important;
+    margin: none!important;
+}
+.col{
+     border:none !important;
+    background-color: black !important;
+}
+
+
+.card-img-top{
+      border:none !important;
+      background-color: black !important;
+}
+
+.boldt{
+    position: absolute;
+    color: white !important;
+    font-weight: bolder;
+    font-size: 60px;
+    display: flex !important;
+    justify-content: center!important;
+    align-items: center !important;
+    padding-left: 4.5vh;
+    padding-top: 8.5vh;
+    text-align: center;
+
+}
+
+
+.welcome{
+  color: white;
+  background-color: black;
+  font-family:'Raleway', sans-serif !important;
+ text-align: center;
+  font-size: 60px;
+  margin: 0;
+  padding: 20px;
+}
